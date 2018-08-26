@@ -29,9 +29,9 @@ repositories {
    }
 }
 
-version = "1.0.2-final"
+version = "1.0.2-1.12.2"
 group= "net.killermapper.roadstuff" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "RoadStuff-mc1.7.10"
+archivesBaseName = "RoadStuff-mc1.12.2"
 
 minecraft {
     version = "${mc_version}-${forge_version}"
